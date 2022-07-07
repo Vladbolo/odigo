@@ -1,0 +1,9 @@
+{
+  "name": "noise",
+  "id": "1122563565731135454",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figjam"
+  ]
+}
